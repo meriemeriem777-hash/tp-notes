@@ -3,3 +3,4 @@ node_modules/
 *.env
 sbom*.json
 Dockerfile.naif
+deps_modules
